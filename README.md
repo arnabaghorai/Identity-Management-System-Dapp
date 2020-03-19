@@ -31,8 +31,3 @@ The existing identity management system is neither secure nor reliable. At every
 - Flask
 - firebase-admin (python)
 - HTML/CSS
-
-<<<<<<< HEAD
-
-=======
->>>>>>> 5058e05918c8007a4c07c000ca3a6daa46509334
